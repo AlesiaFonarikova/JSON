@@ -1,0 +1,9 @@
+{
+	"Full name":{
+		"Surname":"Фонарикова","Name":"Алеся","Patronymic":"Александровна"},
+	"Age":23,
+	"Pet":{
+		"Amount":1,"Animal":"Собака","Name":"Злата","Age":6},
+	"Preferred salary":500
+}
+
